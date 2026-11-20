@@ -2,7 +2,7 @@ PPS Assignment-3 Course: Programming For Problem Solving (U26CS101) Institute: L
 
 Name: SK MUDASIR Roll No: 160926748014
 
-About C solutions for Assignment-2, solved and accepted on leetcode
+About C solutions for Assignment-3, solved and accepted on leetcode
 
 S.No	Problem	File
 1	Sum and Difference of Two Numbers	1_sum_difference.c
