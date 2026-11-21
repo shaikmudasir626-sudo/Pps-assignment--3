@@ -1,14 +1,13 @@
-# PPS Assignment-3
+PPS Assignment-3
 
-**Course:** Programming For Problem Solving (U26CS101)  
-**Institute:** Lords Institute of Engineering and Technology  
-**Branch:** CSM-A | I-BE, I-Semester (LR26)  
-**Unit:** 3  
+Course: Programming For Problem Solving (U26CS101)  
+Institute: Lords Institute of Engineering and Technology  
+Branch: CSM-A | I-BE, I-Semester (LR26)  
+Unit: 3  
 
-**Name:** SK MUDASIR  
-**Roll No:** 160926748014  
-
-## About
+Name: SK MUDASIR  
+Roll No:160926748014  
+about:
 C solutions for Assignment-3, solved and accepted on LeetCode.
 
 | S.No | Problem | File |
