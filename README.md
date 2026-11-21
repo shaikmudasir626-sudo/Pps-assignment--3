@@ -1,14 +1,8 @@
-PPS Assignment-3
+PPS Assignment-3 Course: Programming For Problem Solving (U26CS101) Institute: Lords Institute of Engineering and Technology Branch: CSM-A | I-BE, I-Semester (LR26) Unit: 3
 
-Course: Programming For Problem Solving (U26CS101)  
-Institute: Lords Institute of Engineering and Technology  
-Branch: CSM-A | I-BE, I-Semester (LR26)  
-Unit: 3  
+Name: SK MUDASIR Roll No: 160926748014
 
-Name: SK MUDASIR  
-Roll No:160926748014  
-about:
-C solutions for Assignment-3, solved and accepted on LeetCode.
+About C solutions for Assignment-3, solved and accepted on LeetCode.
 
 | S.No | Problem | File |
 | :--- | :--- | :--- |
@@ -19,9 +13,10 @@ C solutions for Assignment-3, solved and accepted on LeetCode.
 | 5 | [35. Search Insert Position](https://leetcode.com) | `5_search_insert_position.c` |
 
 ## Concepts Covered
-* 1D and 2D Arrays in C
+
+* 1D and 2D arrays in C
 * Binary Search algorithm
-* Prefix / Running Sum calculation
+* Running / Prefix sum calculation
 * Matrix operations (Transpose and Reshape)
 * Nested `for` loops and `while` loops
 
@@ -31,4 +26,5 @@ C solutions for Assignment-3, solved and accepted on LeetCode.
 gcc 1_binary_search.c -o program
 ./program
 ```
+
 
